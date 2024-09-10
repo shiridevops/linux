@@ -1,0 +1,19 @@
+GIT
+---
+1. My code went from development to QA environment and found out an bug. Now how can i bring it back to dev env?
+   #git revert
+
+
+JENKINS
+-------
+1. When jenkins trigger a job, it creates artifact. where is the artifact stored in jenkins?
+
+2. How to stop the scheduled job in jenkins?
+
+3. How can i run multiple jobs/tasks at same time? 
+
+
+AWS
+---
+1. Differnce between Elasticity & Scalability?
+   #The capability to chnage the resource when required is called elasticity while scalability is resizing reource based on demand
